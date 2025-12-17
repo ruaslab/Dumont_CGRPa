@@ -3,7 +3,9 @@ Dumont et al. supplemental macros
 
 createAverageProjections = average projections of z-planes
 
+
 ROI_from_zproject = generation of region of interests (ROI)
+
 
 CellProfiler_cleared_AdipocyteSize = pipeline to quantify adipocyte size (input = ROI images)
 
