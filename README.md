@@ -1,11 +1,14 @@
 # Dumont_CGRPa
-Dumont et al. supplemental macros
+Dumont et al. Supplemental macros
+
+Sensory-neuron-derived CGRPα controls white adipocyte differentiation and tissue plasticity
+https://doi.org/10.1016/j.celrep.2025.116613
+
+ 
 
 createAverageProjections = average projections of z-planes
 
-
 ROI_from_zproject = generation of region of interests (ROI)
-
 
 CellProfiler_cleared_AdipocyteSize = pipeline to quantify adipocyte size (input = ROI images)
 
